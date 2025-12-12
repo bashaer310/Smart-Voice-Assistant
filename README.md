@@ -5,7 +5,7 @@ This is a full-stack solution for a smart voice assistant integrated into the Ab
 ## Features
 - **Interactive Voice Execution of Services** – Users can perform government services via voice commands.
 - **Personalized Reminders and Responses** – Sends alerts and provides responses tailored to the user.
-- **Voice-Delivered Results** – Delivers service results in audio format for for easy follow-up.
+- **Voice-Delivered Results** – Delivers service results in audio format for easy follow-up.
 
 ## Live Demo
 https://github.com/user-attachments/assets/82f33822-f531-4aa0-98c4-31f7309806f0
@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/82f33822-f531-4aa0-98c4-31f7309806f0
 
 ## Getting Started
 
-## Project structure
+## Project Structure
 
 ## API Endpoints
 All the API Endpoints are documented and can be accessed at:
