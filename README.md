@@ -11,6 +11,29 @@ This is a full-stack solution for a smart voice assistant integrated into the Ab
 https://github.com/user-attachments/assets/82f33822-f531-4aa0-98c4-31f7309806f0
 
 ## Technologies Used
+- Languages
+  - C# – Programming language
+  - JavaScript – Scripting and interactivity
+
+- Frameworks
+  - ASP.NET – RESTful API framework
+  - React – Reusable UI library
+  - Tailwind CSS – Styling and layout library
+
+- Database
+  - MySQL – Relational database
+
+- Packages & Libraries
+  - Entity Framework Core – ORM for database access
+  - AutoMapper – DTO and entity mapping
+
+- AI & Cloud Services
+  - Azure – Speech-to-Text and Text-to-Speech
+  - OpenAI – Natural language understanding and response generation
+    
+- Tools
+  - Swagger – API documentation
+  - Postman – API testing
 
 ## Getting Started
 
