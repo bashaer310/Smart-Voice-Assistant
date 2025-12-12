@@ -17,13 +17,13 @@ https://github.com/user-attachments/assets/82f33822-f531-4aa0-98c4-31f7309806f0
 
 - Frameworks
   - ASP.NET – RESTful API framework
-  - React – Reusable UI library
-  - Tailwind CSS – Styling and layout library
 
 - Database
   - MySQL – Relational database
 
 - Packages & Libraries
+  - React – Reusable UI library
+  - Tailwind CSS – Styling and layout library
   - Entity Framework Core – ORM for database access
   - AutoMapper – DTO and entity mapping
 
